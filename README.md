@@ -139,9 +139,6 @@ done
 
 ```
 
-
-[Результат вывода в консоль](011/psax.sh.log)
-
 <details><summary>Результат вывода в консоль</summary>
 
 ```properties
